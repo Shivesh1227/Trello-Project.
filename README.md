@@ -44,12 +44,20 @@ Open the index.html file in your preferred web browser. You can do this by simpl
 
 Usage
 Add Task: Click the "Add TODO Task" button to open the task form modal. Fill in the task name and description, then submit the form.
+
 Drag-and-Drop: Drag tasks between columns to update their status.
 Responsive Design: The application is designed to be responsive and should work well on various devices.
+
 Project Structure
+
 index.html: The main HTML file that contains the structure of the project.
+
 styles.css: Contains custom CSS for styling the application, including Bootstrap integration.
+
 script.js: Contains JavaScript code for handling task management, drag-and-drop functionality, and form interactions.
+
+
 Contributing
+
 Contributions to this project are welcome. If you have suggestions or improvements, please create a pull request or open an issue.
 
